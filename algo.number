@@ -1,0 +1,23 @@
+algorithm-number
+VAR
+one : INTEGER := 1;
+two : INTEGER := 2;
+three : INTEGER:= 3;
+four : INTEGER:= 4;
+five : INTEGER:= 5;
+six : INTEGER:= 6;
+seven : INTEGER:= 7;
+eight : INTEGER:= 8;
+nine : INTEGER:= 9;
+
+
+divided by : CHAR := /;
+plus : CHAR : +;
+minus : CHAR : -;
+times : CHAR : *;
+
+BEGIN
+read (sentences)
+x := sentences
+write (x)
+END
